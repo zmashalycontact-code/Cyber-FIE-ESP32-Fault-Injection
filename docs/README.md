@@ -1,4 +1,7 @@
 # ⚡ Cyber-FIE: Software-Induced Memory Fault Injection Framework
+
+> **Ziad A. Mashaly** | Lead Researcher & Core Developer of Cyber-FIE, a C++ SIFI framework evaluating ESP32 SRAM resilience under post-exploitation threat models.
+
 > **Target:** AES-256 Resilience on Bare-Metal ESP32-D0WDQ6  
 > **Threat Model:** Post-Exploitation Arbitrary Code Execution (ACE)
 
